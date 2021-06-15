@@ -470,7 +470,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Prerequisite Knowledge
 
--   [ ] **Learn C**
+-   [x] **Learn C**
 
     -   C is everywhere. You'll see examples in books, lectures, videos, _everywhere_ while you're studying
     -   [ ] [The C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
